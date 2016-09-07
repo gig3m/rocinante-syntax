@@ -1,12 +1,12 @@
 {
   "name": "rocinante-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A dark yet juicy theme for Atom",
   "keywords": [
-		"juicy",
-		"dark",
-		"syntax",
+    "juicy",
+    "dark",
+    "syntax",
     "theme"
   ],
   "repository": "https://github.com/gig3m/rocinante-syntax",
