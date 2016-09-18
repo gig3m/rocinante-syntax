@@ -3,7 +3,7 @@
 > A dark yet juicy theme for Atom
 
 ## Preview
-![screenshot](screenshot.png)
+![screenshot](https://raw.githubusercontent.com/gig3m/rocinante-syntax/master/screenshot.png)
 
 ## Attribution
 
